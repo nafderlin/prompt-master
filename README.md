@@ -1,3 +1,5 @@
+![Prompt Master](https://ibb.co/FSxRn13)
+
 # Prompt Master
 
 A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention.
@@ -10,8 +12,8 @@ Works with: Claude, ChatGPT, Gemini, o1/o3, Cursor, Claude Code, GitHub Copilot,
 
 ### Recommended Claude.ai (browser)
 
-1. Download this repo as a ZIP
-2. Go to **claude.ai → Sidebar → Customize → Upload into Custom Skill**
+1. Download this repo as a .ZIP
+2. Go to **claude.ai → Sidebar → Customize → Skills → Upload a skill**
 
 ### Clone directly into Claude Code skills directory
 
