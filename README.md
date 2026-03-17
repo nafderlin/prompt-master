@@ -11,7 +11,7 @@ Works with: Claude, ChatGPT, Gemini, o1/o3, Cursor, Claude Code, GitHub Copilot,
 ### Recommended Claude.ai (browser)
 
 1. Download this repo as a ZIP
-2. Go to **claude.ai → Sidebar → Customize → Upload into Custom Skill**
+2. Go to **claude.ai → Sidebar → Customize → Skills → Upload a Skill**
 
 ### Clone directly into Claude Code skills directory
 
