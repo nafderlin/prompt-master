@@ -1,4 +1,4 @@
-![](https://i.postimg.cc/kG03s7tk/prompt-banner.png)
+![](https://res.cloudinary.com/deep9xxvx/image/upload/f_auto,q_auto/banner_ifwlon)
 
 <br/>
 
